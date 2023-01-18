@@ -1,21 +1,17 @@
 ## Title
 # Random Quote Generator
-
 ## Description
-x
-## User Story
-x
+This application is designed to randomly generate a quote at the users click.
 ## Table of Contents
   - [Description](#description)
-  - [User Story](#user-story)
   - [Table of Contents](#table-of-contents)
   - [Applications Used](#applications-used)
-  - [Installation](#installation)
+  - [Video](#Video)
   - [Contributing](#contributing)
 ## Applications Used
-x
-## Installation
-x
+html, css, javascript, api
+## Video
+
 ## Contributing
 Nick DiBartolo
 
